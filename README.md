@@ -1,2 +1,1 @@
-python3 genderly.py
-Get gender list response from :5000 port
+python3 genderly.py and Get gender list response from :5000 port on deployed machine i.e. http://127.0.0.1:5000/
